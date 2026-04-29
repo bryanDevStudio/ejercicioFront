@@ -111,3 +111,25 @@ main {
     background: #0056b3;
     transform: translateY(-2px);
 }
+
+.info {
+    padding: 80px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: var(--color-primario);
+}
+
+footer {
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 0.9rem;
+    background: var(--color-primario);
+    color: var(--color-secundario);
+    letter-spacing: 1px;
+}
